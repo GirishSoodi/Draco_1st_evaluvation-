@@ -1,0 +1,20 @@
+header{
+    font-size: 1.5m;     font-family: initial;     
+     background-color:bisque;
+}
+h1{
+    font-family:inherit;
+    text-decoration: solid;
+    background-color: aliceblue;
+}
+body{
+    background-image: url(images/pen.jpeg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+button{
+    font-size: 25;
+    background-color:cyan;
+}
